@@ -4,9 +4,10 @@ A repository for all CAD documents and any files related to the the hardware for
 
 ## Hardware Overview
 
-The goal of the project within this repository is to create a specialized Raspberry Pi case
-designed to contain extra components necessary to create an open-source, wireless 3D scanner
-based on our group project for Computer Engineering 186 at Iowa State University.
+The goal of the project within this repository is to create a specialized 
+Raspberry Pi case designed to contain extra components necessary to create 
+an open-source, wireless 3D scanner based on our group project for Computer
+Engineering 186 at Iowa State University.
 
 The hardware used for this project as well as their sources are listed below. Please note that some of :
 
@@ -44,9 +45,9 @@ The hardware used for this project as well as their sources are listed below. Pl
 	
 	Source: https://www.adafruit.com/product/354
 	
-	Specifications: pretty much a box with dimensions 69mm x 37mm x 18mm. Make sure to leave a hole in the top middle for the cable though!
-	
-		Source: https://www.adafruit.com/product/354
+	Specifications: pretty much a box with dimensions 69mm x 37mm x 18mm 
+	per the site. Make sure to leave a hole in the top middle for the 
+	cable though! And double-check specs!
 
 * PowerBoost 500 Basic - $10
 	
