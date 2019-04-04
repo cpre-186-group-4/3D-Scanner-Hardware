@@ -16,6 +16,11 @@ The hardware used for this project as well as their sources are listed below. Pl
 	Source: https://www.adafruit.com/product/3400
 	
 	Specifications: https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p3.pdf
+	
+	Thickness obtained from https://www.element14.com/community/thread/57943/l/thickness-of-raspberrypi3-pcb
+	
+	Height obtained from 
+	https://www.adafruit.com/product/3400
 
 * BerryGPS-IMUv3 - $50
 	
