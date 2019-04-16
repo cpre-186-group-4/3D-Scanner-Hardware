@@ -9,7 +9,7 @@ Raspberry Pi case designed to contain extra components necessary to create
 an open-source, wireless 3D scanner based on our group project for Computer
 Engineering 186 at Iowa State University.
 
-The hardware used for this project as well as their sources are listed below. Please note that some of :
+The hardware used for this project as well as their sources are listed below:
 
 * Raspberry Pi Zero W - $10
 	
